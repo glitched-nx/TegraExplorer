@@ -5,66 +5,45 @@
 [![Version](https://img.shields.io/github/v/release/suchmememanyskill/tegraexplorer)](https://github.com/suchmememanyskill/TegraExplorer/releases)
 [![Donations](https://img.shields.io/badge/Support%20on-Ko--Fi-red)](https://ko-fi.com/suchmememanyskill)
 
-A payload-based file explorer for your switch!
+Ein payload-basierter Dateiexplorer für deine Switch!
 
-## Usage
-1. Get your favorite payload injector
-2. Inject TegraExplorer as a payload
+## Nutzung
 
-Navigate around the menus using the joycons.
-- A: Select
-- B: Back
-- Left Joystick up/down (Dpad or joystick): navigate menus up/down
-- Right Joystick up/down: fast menu navigation up/down
-- Capture (Minerva only): Take a screenshot
-- L3/R3 (Press joysticks in): Recalibrate centerpoint
+1. Besorge dir deinen bevorzugten Payload-Injektor
+2. Injiziere TegraExplorer als Payload
 
-If you do not have your joycons connected:
+Navigiere durch die Menüs mit den Joycons.
+
+- A: Auswählen
+- B: Zurück
+- Linker Joystick hoch/runter (D-Pad oder Joystick): Menüs hoch/runter navigieren
+- Rechter Joystick hoch/runter: Schnelle Menü-Navigation hoch/runter
+- Capture (nur Minerva): Einen Screenshot machen
+- L3/R3 (Joysticks drücken): Mittelpunkt neu kalibrieren
+
+Falls deine Joycons nicht verbunden sind:
+
 - Power -> A
-- Vol+ -> Left Joystick up
-- Vol- -> Left Joystick down
+- Vol+ -> Linker Joystick hoch
+- Vol- -> Linker Joystick runter
 
-## Functions
-- Navigate the SD card
-- Navigate the System partition of your sysmmc and emummc
-- Interact with files
-	- Deleting, copying, renaming and moving files
-	- Launching payloads files
-	- Viewing the hex data of a file
-	- Launching special [TegraScript](https://github.com/suchmememanyskill/TegraScript) files
-	- Renaming files
-- Interacting with folders
-	- Deleting, copying or renaming folders
-	- Creating folders
-- Dumping your current firmware to sd
-- Formatting the sd card
+## Funktionen
 
-*and more*
+- Navigation der SD-Karte
+- Navigation der Systempartition deiner sysmmc und emummc
+- Interaktion mit Dateien
+  - Dateien löschen, kopieren, umbenennen und verschieben
+  - Payload-Dateien starten
+  - Die Hex-Daten einer Datei anzeigen
+  - Spezielle [TegraScript](https://github.com/suchmememanyskill/TegraScript)-Dateien starten
+- Interaktion mit Ordnern
+  - Ordner löschen, kopieren oder umbenennen
+  - Ordner erstellen
+- Deine aktuelle Firmware auf die SD-Karte dumpen
+- Die SD-Karte formatieren
 
-## Support
-
-For general CFW support, go to the [Nintendo Homebrew](https://discord.gg/C29hYvh) discord
-
-For question specifically for TegraExplorer, go to [my discord](https://discord.gg/aH9rsuP)
-
-## Credits
-Based on [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM), and thus also based on [Hekate](https://github.com/CTCaer/hekate)
-
-Awesome people who helped with this project:
-- [shchmue](https://github.com/shchmue)
-- [maddiethecafebabe](https://github.com/maddiethecafebabe/)
-- [bleck9999](https://github.com/bleck9999)
-
-Other awesome people:
-- PhazonicRidley
-- Dax
-- Huhen
-- Exelix
-- Emmo
-- Gengar
-- Einso
-- JeffV
+*und mehr*
 
 ## Screenshots
 
-![Preview](/preview.png)
+![Vorschau](/preview.png)
